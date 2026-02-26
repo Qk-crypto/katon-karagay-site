@@ -20,7 +20,7 @@ export const site = {
   mapEmbedSrc: "https://yandex.com/map-widget/v1/?text=Катон-Қарағай",
 
   contact: {
-    whatsappUrl: "https://wa.me/77786284002?text=Катон-Қарағай%20туралы%20ақпарат%20керек",
+    whatsappUrl: "https://wa.me/77051370525?text=Катон-Қарағай%20туралы%20ақпарат%20керек",
     phoneText: "+7 (705) 137-05-25",
     emailText: "katon_tur@mail.ru",
     footerNote: "Ақпараттық сайт. Деректер маусымға және маршрутқа байланысты өзгеруі мүмкін.",
